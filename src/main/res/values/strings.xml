@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="quiz_one">Q1: What is the name of pakistan cricket team test captain? </string>
+    <string name="quiz_one_opt_1">Azhar Ali</string>
+    <string name="quiz_one_opt_2">Younis Khan</string>
+    <string name="quiz_one_opt_3">Misbah-ul-Haq</string>
+    <string name="quiz_one_opt_4">Mohammad Amir</string>
+
+    <string name="quiz_two">Q2: Who has won the world cup 2015? </string>
+    <string name="quiz_two_opt_1">New Zeland</string>
+    <string name="quiz_two_opt_2">West Indies</string>
+    <string name="quiz_two_opt_3">Australia</string>
+    <string name="quiz_two_opt_4">Pakistan</string>
+
+
+    <string name="quiz_three">Q3: What is the country name of current ICC Chairman? </string>
+    <string name="quiz_three_opt_1">india</string>
+
+    <string name="quiz_four">Q4: What is name of the pakistn cricket team captain who won the 1992 world cup? </string>
+    <string name="quiz_four_opt_1">imran khan</string>
+
+    <string name="quiz_five">Q5: What is the country name of current ICC Chairman? </string>
+    <string name="quiz_five_opt_1">India</string>
+    <string name="quiz_five_opt_2">West Indies</string>
+    <string name="quiz_five_opt_3">Australia</string>
+    <string name="quiz_five_opt_4">England</string>
+
+
+    <string name="quiz_six">Q6: Which two players made double century in world cup 2015? </string>
+    <string name="quiz_six_opt_1">Chris Gayle</string>
+    <string name="quiz_six_opt_2">Virat Kholi</string>
+    <string name="quiz_six_opt_3">Martin Guptil</string>
+    <string name="quiz_six_opt_4">Brendon McCullam</string>
+
+    <!-- Questions
+  -->
+
+
+
+</resources>
